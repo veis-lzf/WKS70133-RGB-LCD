@@ -4,10 +4,7 @@
 - 3D实物图
 
   - ADT
-
-    ![ADT](/Hardware/ADT.png)
+    ![ADT-3D](/Hardware/ADT-3D.jpg)
 
   - ADB
-
-    ![ADB](/Hardware/ADB.png)
-
+    ![ADB-3D](/Hardware/ADB-3D.png)
